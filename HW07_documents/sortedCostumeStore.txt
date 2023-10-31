@@ -1,0 +1,16 @@
+Party Fair
+
+Princess Peach
+15.99
+5
+Online
+
+Sonic
+40.0
+2
+In-store
+
+Pikachu
+50.0
+2
+Online

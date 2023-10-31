@@ -1,0 +1,18 @@
+Candy Log
+
+Snickers
+10
+
+KitKat
+5
+
+Twizzlers
+8
+
+Trident
+7
+
+Extra
+3
+
+Total Collected: 33

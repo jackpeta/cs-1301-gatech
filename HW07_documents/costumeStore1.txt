@@ -1,0 +1,41 @@
+Spirit Halloween
+
+Mario
+20.00
+6
+In-store
+
+Barbie
+25.00
+3
+Online
+
+Pirate
+35.00
+23
+Online
+
+Oppenheimer
+50.00
+10
+In-store
+
+Willy Wonka
+19.99
+7
+Online
+
+Thanos
+15.00
+1
+In-store
+
+Iron Man
+25.00
+11
+In-store
+
+Dracula
+29.99
+5
+Online

@@ -1,0 +1,56 @@
+Target
+
+Physicist Barbie
+19.99
+25
+Online
+
+Sheet Ghost
+8.99
+100
+Online
+
+Scooby Doo
+15.50
+1
+In-store
+
+Cowboy
+25.00
+3
+Online
+
+Super Mario
+20.00
+15
+In-store
+
+Mermaid
+35.99
+9
+Online
+
+Wednesday Addams
+26.75
+20
+In-store
+
+Mojo Dojo Ken
+18.99
+1
+In-store
+
+Vampire
+13.50
+5
+In-store
+
+Zombie
+23.99
+11
+Online
+
+Skeleton
+249.99
+4
+Online
